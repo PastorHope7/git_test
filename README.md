@@ -1,2 +1,2 @@
 # git_test
-my first repo (top)
+my first repo (The_Odin_Project)
